@@ -5,7 +5,7 @@ In this activity, I created an Amazon-like storefront with the MySQL skills I le
 
 The MySQL and Inquirer npm packages have been implemented -- the app will uses them for data input and storage.
 
-<iframe src="https://drive.google.com/file/d/1mkxV5aIS270EDb_iKneNcu-S99bHmBJs/preview" width="640" height="480"></iframe>
+[![Bamazon](https://i.ibb.co/sRddZG1/Screenshot-39.png)](https://drive.google.com/file/d/1mkxV5aIS270EDb_iKneNcu-S99bHmBJs/view "Bamazon - Click to Watch!")
 
 ## HW Instructions
 
